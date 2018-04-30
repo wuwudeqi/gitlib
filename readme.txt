@@ -3,4 +3,8 @@ Git is free software.
 Xiugai
 Zaixiugai2
 123
+<<<<<<< HEAD
 222
+=======
+321
+>>>>>>> feature1
